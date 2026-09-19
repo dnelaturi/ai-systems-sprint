@@ -49,7 +49,7 @@ The operational overhead of maintaining AI software in production. 
 
 As the sprint progresses from **Monday, September 21, 2026, to Friday, December 11, 2026**, deep-dives, architectural diagrams, and code snippets will be organized below: 
 
-text
+```text
 
 ├── README.md
 ├── month-1-foundations/
@@ -61,6 +61,7 @@ text
 │   └── ...
 └── month-3-mlops-roi/
     └── ...
+```
 
 Use code with caution.
 
